@@ -783,3 +783,15 @@
 2025-01-01 19:21:33,866 [INFO] Crawl complete. Graph now has 100736 nodes and 176997 edges.
 2025-01-01 19:21:43,891 [INFO] Starting crawl from 'Well_car' with depth 10.
 2025-01-01 19:21:44,371 [INFO] Crawl complete. Graph now has 100808 nodes and 177152 edges.
+2025-01-01 19:21:54,398 [INFO] Starting crawl from 'British_railway_milk_tank_wagon' with depth 10.
+2025-01-01 19:21:55,298 [INFO] Crawl complete. Graph now has 100850 nodes and 177260 edges.
+2025-01-01 19:22:05,327 [INFO] Starting crawl from 'Tuna' with depth 10.
+2025-01-01 19:22:05,697 [INFO] Crawl complete. Graph now has 101123 nodes and 177944 edges.
+2025-01-01 19:22:15,728 [INFO] Starting crawl from 'Southampton_Docks' with depth 10.
+2025-01-01 19:22:16,297 [INFO] Crawl complete. Graph now has 101318 nodes and 178164 edges.
+2025-01-01 19:22:26,327 [INFO] Starting crawl from 'United_Kingdom_food_information_regulations' with depth 10.
+2025-01-01 19:22:26,559 [INFO] Crawl complete. Graph now has 101387 nodes and 178442 edges.
+2025-01-01 19:22:36,587 [INFO] Starting crawl from 'Little_tunny' with depth 10.
+2025-01-01 19:22:37,389 [INFO] Crawl complete. Graph now has 101428 nodes and 178598 edges.
+2025-01-01 19:22:47,403 [INFO] Starting crawl from 'Haitian_cuisine' with depth 10.
+2025-01-01 19:22:47,712 [INFO] Crawl complete. Graph now has 101712 nodes and 179413 edges.

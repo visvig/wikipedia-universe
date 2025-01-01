@@ -863,3 +863,15 @@
 2025-01-01 19:21:33,914 [INFO] Crawl complete. Graph now has 83837 nodes and 142852 edges.
 2025-01-01 19:21:43,942 [INFO] Starting crawl from 'Avalanche_transistor' with depth 10.
 2025-01-01 19:21:44,514 [INFO] Crawl complete. Graph now has 83922 nodes and 142988 edges.
+2025-01-01 19:21:54,551 [INFO] Starting crawl from 'Staff_management' with depth 10.
+2025-01-01 19:21:54,976 [INFO] Crawl complete. Graph now has 83927 nodes and 143108 edges.
+2025-01-01 19:22:04,997 [INFO] Starting crawl from 'Comuna_15' with depth 10.
+2025-01-01 19:22:05,513 [INFO] Crawl complete. Graph now has 83931 nodes and 143185 edges.
+2025-01-01 19:22:15,536 [INFO] Starting crawl from 'Deep_Learning_(South_Park)' with depth 10.
+2025-01-01 19:22:15,750 [INFO] Crawl complete. Graph now has 83982 nodes and 143286 edges.
+2025-01-01 19:22:25,764 [INFO] Starting crawl from 'Mr._Garrison' with depth 10.
+2025-01-01 19:22:26,006 [INFO] Crawl complete. Graph now has 84275 nodes and 143655 edges.
+2025-01-01 19:22:36,036 [INFO] Starting crawl from 'Timmy_and_the_Lords_of_the_Underworld' with depth 10.
+2025-01-01 19:22:37,155 [INFO] Crawl complete. Graph now has 84287 nodes and 143768 edges.
+2025-01-01 19:22:47,188 [INFO] Starting crawl from 'Fred_Trump_III' with depth 10.
+2025-01-01 19:22:47,421 [INFO] Crawl complete. Graph now has 84321 nodes and 143828 edges.
