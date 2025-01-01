@@ -455,3 +455,411 @@
 2025-01-01 18:46:44,374 [INFO] Crawl complete. Graph now has 49183 nodes and 73280 edges.
 2025-01-01 18:46:54,386 [INFO] Starting crawl from 'Lloyd%27s_of_London' with depth 10.
 2025-01-01 18:46:54,693 [INFO] Crawl complete. Graph now has 49488 nodes and 73913 edges.
+2025-01-01 18:47:04,714 [INFO] Starting crawl from 'Televisa' with depth 10.
+2025-01-01 18:47:06,396 [INFO] Crawl complete. Graph now has 50710 nodes and 75449 edges.
+2025-01-01 18:47:16,414 [INFO] Starting crawl from 'Dona_Flor_and_Her_Two_Husbands_(TV_series)' with depth 10.
+2025-01-01 18:47:17,924 [INFO] Crawl complete. Graph now has 50732 nodes and 75604 edges.
+2025-01-01 18:47:27,946 [INFO] Starting crawl from 'List_of_Televisa_telenovelas_and_series_(2010s)#2015' with depth 10.
+2025-01-01 18:47:28,516 [INFO] Crawl complete. Graph now has 50772 nodes and 75769 edges.
+2025-01-01 18:47:38,532 [INFO] Starting crawl from 'Institutional_Revolutionary_Party' with depth 10.
+2025-01-01 18:47:38,935 [INFO] Crawl complete. Graph now has 51069 nodes and 76148 edges.
+2025-01-01 18:47:48,943 [INFO] Starting crawl from 'Enrique_Mart%C3%ADnez_y_Mart%C3%ADnez' with depth 10.
+2025-01-01 18:47:49,333 [INFO] Crawl complete. Graph now has 51090 nodes and 76176 edges.
+2025-01-01 18:47:59,342 [INFO] Starting crawl from 'Reformist' with depth 10.
+2025-01-01 18:47:59,619 [INFO] Crawl complete. Graph now has 51624 nodes and 76897 edges.
+2025-01-01 18:48:09,628 [INFO] Starting crawl from 'El_Mundo_(Spain)' with depth 10.
+2025-01-01 18:48:10,412 [INFO] Crawl complete. Graph now has 51674 nodes and 76983 edges.
+2025-01-01 18:48:20,431 [INFO] Starting crawl from 'Bacon_and_cabbage' with depth 10.
+2025-01-01 18:48:21,493 [INFO] Crawl complete. Graph now has 51814 nodes and 77146 edges.
+2025-01-01 18:48:31,513 [INFO] Starting crawl from 'Macaulay2' with depth 10.
+2025-01-01 18:48:32,950 [INFO] Crawl complete. Graph now has 51840 nodes and 77231 edges.
+2025-01-01 18:48:42,968 [INFO] Starting crawl from 'Betawi_cuisine' with depth 10.
+2025-01-01 18:48:43,333 [INFO] Crawl complete. Graph now has 52549 nodes and 78423 edges.
+2025-01-01 18:48:53,351 [INFO] Starting crawl from 'Meuseukat' with depth 10.
+2025-01-01 18:48:54,346 [INFO] Crawl complete. Graph now has 52553 nodes and 79508 edges.
+2025-01-01 18:49:04,350 [INFO] Starting crawl from 'Nanchong' with depth 10.
+2025-01-01 18:49:05,994 [INFO] Crawl complete. Graph now has 52841 nodes and 80278 edges.
+2025-01-01 18:49:16,003 [INFO] Starting crawl from 'Microsoft_Development_Center_Norway' with depth 10.
+2025-01-01 18:49:18,110 [INFO] Crawl complete. Graph now has 52884 nodes and 80567 edges.
+2025-01-01 18:49:28,120 [INFO] Starting crawl from 'Bihun_goreng' with depth 10.
+2025-01-01 18:49:28,712 [INFO] Crawl complete. Graph now has 53240 nodes and 81588 edges.
+2025-01-01 18:49:38,729 [INFO] Starting crawl from 'Mee_kari' with depth 10.
+2025-01-01 18:49:39,981 [INFO] Crawl complete. Graph now has 53775 nodes and 83002 edges.
+2025-01-01 18:49:50,001 [INFO] Starting crawl from 'Bor%C8%99_de_burechiu%C8%99e' with depth 10.
+2025-01-01 18:49:50,919 [INFO] Crawl complete. Graph now has 54047 nodes and 83348 edges.
+2025-01-01 18:50:00,927 [INFO] Starting crawl from 'Policing' with depth 10.
+2025-01-01 18:50:01,407 [INFO] Crawl complete. Graph now has 54964 nodes and 84478 edges.
+2025-01-01 18:50:11,426 [INFO] Starting crawl from 'Energy_law' with depth 10.
+2025-01-01 18:50:11,770 [INFO] Crawl complete. Graph now has 55703 nodes and 85352 edges.
+2025-01-01 18:50:21,780 [INFO] Starting crawl from 'Special_district_(United_States)' with depth 10.
+2025-01-01 18:50:22,046 [INFO] Crawl complete. Graph now has 55825 nodes and 85501 edges.
+2025-01-01 18:50:32,065 [INFO] Starting crawl from 'South_Sudan_Police_Service' with depth 10.
+2025-01-01 18:50:32,772 [INFO] Crawl complete. Graph now has 55887 nodes and 85570 edges.
+2025-01-01 18:50:42,790 [INFO] Starting crawl from 'Energy_in_Italy' with depth 10.
+2025-01-01 18:50:43,334 [INFO] Crawl complete. Graph now has 56214 nodes and 85964 edges.
+2025-01-01 18:50:53,362 [INFO] Starting crawl from 'San_Francisco_Police_Department' with depth 10.
+2025-01-01 18:50:53,635 [INFO] Crawl complete. Graph now has 56502 nodes and 86289 edges.
+2025-01-01 18:51:03,655 [INFO] Starting crawl from 'Po_Valley' with depth 10.
+2025-01-01 18:51:03,880 [INFO] Crawl complete. Graph now has 56676 nodes and 86523 edges.
+2025-01-01 18:51:13,901 [INFO] Starting crawl from 'Geothermal_power_in_Iceland' with depth 10.
+2025-01-01 18:51:14,182 [INFO] Crawl complete. Graph now has 56773 nodes and 86727 edges.
+2025-01-01 18:51:24,204 [INFO] Starting crawl from 'Board_of_supervisors' with depth 10.
+2025-01-01 18:51:24,722 [INFO] Crawl complete. Graph now has 56834 nodes and 86809 edges.
+2025-01-01 18:51:34,732 [INFO] Starting crawl from 'Metropolitan_Police_Department_of_the_District_of_Columbia' with depth 10.
+2025-01-01 18:51:36,088 [INFO] Crawl complete. Graph now has 57062 nodes and 87097 edges.
+2025-01-01 18:51:46,111 [INFO] Starting crawl from 'Rick_Wakeman' with depth 10.
+2025-01-01 18:51:46,597 [INFO] Crawl complete. Graph now has 57620 nodes and 87846 edges.
+2025-01-01 18:51:56,607 [INFO] Starting crawl from 'XMLHttpRequest' with depth 10.
+2025-01-01 18:51:56,825 [INFO] Crawl complete. Graph now has 57920 nodes and 88215 edges.
+2025-01-01 18:52:06,841 [INFO] Starting crawl from 'Web_standards' with depth 10.
+2025-01-01 18:52:07,041 [INFO] Crawl complete. Graph now has 57961 nodes and 88416 edges.
+2025-01-01 18:52:17,063 [INFO] Starting crawl from 'Internet_Explorer_1' with depth 10.
+2025-01-01 18:52:17,341 [INFO] Crawl complete. Graph now has 58164 nodes and 88833 edges.
+2025-01-01 18:52:27,366 [INFO] Starting crawl from 'Acid3_test' with depth 10.
+2025-01-01 18:52:28,580 [INFO] Crawl complete. Graph now has 58380 nodes and 89157 edges.
+2025-01-01 18:52:38,594 [INFO] Starting crawl from 'Map' with depth 10.
+2025-01-01 18:52:38,967 [INFO] Crawl complete. Graph now has 58594 nodes and 89570 edges.
+2025-01-01 18:52:48,984 [INFO] Starting crawl from 'Geographic_information_systems' with depth 10.
+2025-01-01 18:52:49,385 [INFO] Crawl complete. Graph now has 58948 nodes and 90074 edges.
+2025-01-01 18:52:59,405 [INFO] Starting crawl from 'List_of_gurdwaras#North_America' with depth 10.
+2025-01-01 18:52:59,670 [INFO] Crawl complete. Graph now has 59101 nodes and 90609 edges.
+2025-01-01 18:53:09,695 [INFO] Starting crawl from '1985_in_television' with depth 10.
+2025-01-01 18:53:10,194 [INFO] Crawl complete. Graph now has 59190 nodes and 90781 edges.
+2025-01-01 18:53:20,217 [INFO] Starting crawl from 'Primer_amor,_a_mil_por_hora' with depth 10.
+2025-01-01 18:53:21,012 [INFO] Crawl complete. Graph now has 59240 nodes and 90948 edges.
+2025-01-01 18:53:31,041 [INFO] Starting crawl from '1973_Irish_presidential_election' with depth 10.
+2025-01-01 18:53:31,501 [INFO] Crawl complete. Graph now has 59271 nodes and 91124 edges.
+2025-01-01 18:53:41,514 [INFO] Starting crawl from 'Rina_(wrestler)' with depth 10.
+2025-01-01 18:53:42,080 [INFO] Crawl complete. Graph now has 59284 nodes and 91227 edges.
+2025-01-01 18:53:52,093 [INFO] Starting crawl from 'Jazz_(word)' with depth 10.
+2025-01-01 18:53:52,304 [INFO] Crawl complete. Graph now has 59334 nodes and 91505 edges.
+2025-01-01 18:54:02,319 [INFO] Starting crawl from 'Plantain_(cooking)' with depth 10.
+2025-01-01 18:54:02,612 [INFO] Crawl complete. Graph now has 59506 nodes and 91751 edges.
+2025-01-01 18:54:12,639 [INFO] Starting crawl from 'Mofongo' with depth 10.
+2025-01-01 18:54:13,296 [INFO] Crawl complete. Graph now has 59563 nodes and 91921 edges.
+2025-01-01 18:54:23,306 [INFO] Starting crawl from 'Cartoons' with depth 10.
+2025-01-01 18:54:24,333 [INFO] Crawl complete. Graph now has 59722 nodes and 92103 edges.
+2025-01-01 18:54:34,356 [INFO] Starting crawl from 'Honor%C3%A9_Daumier' with depth 10.
+2025-01-01 18:54:35,194 [INFO] Crawl complete. Graph now has 59843 nodes and 92245 edges.
+2025-01-01 18:54:45,203 [INFO] Starting crawl from 'Maurice_Raynal' with depth 10.
+2025-01-01 18:54:46,449 [INFO] Crawl complete. Graph now has 59849 nodes and 92254 edges.
+2025-01-01 18:54:56,471 [INFO] Starting crawl from 'Salted_duck_egg' with depth 10.
+2025-01-01 18:54:56,676 [INFO] Crawl complete. Graph now has 59866 nodes and 92299 edges.
+2025-01-01 18:55:06,703 [INFO] Starting crawl from '1979_European_Parliament_election_in_West_Germany' with depth 10.
+2025-01-01 18:55:07,422 [INFO] Crawl complete. Graph now has 59935 nodes and 92601 edges.
+2025-01-01 18:55:17,441 [INFO] Starting crawl from 'Jesse_Lynch_Williams' with depth 10.
+2025-01-01 18:55:18,419 [INFO] Crawl complete. Graph now has 59957 nodes and 92736 edges.
+2025-01-01 18:55:28,437 [INFO] Starting crawl from 'Renewable_energy_in_Thailand' with depth 10.
+2025-01-01 18:55:29,576 [INFO] Crawl complete. Graph now has 59967 nodes and 92831 edges.
+2025-01-01 18:55:39,583 [INFO] Starting crawl from 'Hawala_and_crime' with depth 10.
+2025-01-01 18:55:40,124 [INFO] Crawl complete. Graph now has 59979 nodes and 92976 edges.
+2025-01-01 18:55:50,128 [INFO] Starting crawl from 'Msiri' with depth 10.
+2025-01-01 18:55:50,597 [INFO] Crawl complete. Graph now has 60039 nodes and 93066 edges.
+2025-01-01 18:56:00,605 [INFO] Starting crawl from 'Consensus_decision-making' with depth 10.
+2025-01-01 18:56:00,958 [INFO] Crawl complete. Graph now has 60156 nodes and 93219 edges.
+2025-01-01 18:56:10,967 [INFO] Starting crawl from 'Hitachi' with depth 10.
+2025-01-01 18:56:11,347 [INFO] Crawl complete. Graph now has 60919 nodes and 94088 edges.
+2025-01-01 18:56:21,355 [INFO] Starting crawl from 'Fujifilm' with depth 10.
+2025-01-01 18:56:21,684 [INFO] Crawl complete. Graph now has 61083 nodes and 94544 edges.
+2025-01-01 18:56:23,617 [INFO] Updating graph elements for visualization.
+2025-01-01 18:56:23,806 [INFO] Graph currently has 61083 nodes and 94544 edges.
+2025-01-01 18:56:23,816 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 18:56:31,692 [INFO] Starting crawl from 'RE_Amemiya' with depth 10.
+2025-01-01 18:56:32,127 [INFO] Crawl complete. Graph now has 61146 nodes and 94749 edges.
+2025-01-01 18:56:42,136 [INFO] Starting crawl from 'Quantum_Corporation' with depth 10.
+2025-01-01 18:56:42,428 [INFO] Crawl complete. Graph now has 61166 nodes and 94878 edges.
+2025-01-01 18:56:52,436 [INFO] Starting crawl from 'Amplidata' with depth 10.
+2025-01-01 18:56:52,879 [INFO] Crawl complete. Graph now has 61193 nodes and 94915 edges.
+2025-01-01 18:57:02,888 [INFO] Starting crawl from 'Quantum_Fireball' with depth 10.
+2025-01-01 18:57:04,399 [INFO] Crawl complete. Graph now has 61199 nodes and 94926 edges.
+2025-01-01 18:57:14,408 [INFO] Starting crawl from 'TDK' with depth 10.
+2025-01-01 18:57:14,666 [INFO] Crawl complete. Graph now has 61237 nodes and 95352 edges.
+2025-01-01 18:57:24,674 [INFO] Starting crawl from 'List_of_programs_broadcast_by_MTV_Brasil' with depth 10.
+2025-01-01 18:57:24,914 [INFO] Crawl complete. Graph now has 61259 nodes and 95892 edges.
+2025-01-01 18:57:34,930 [INFO] Starting crawl from 'Weibin_District,_Xinxiang' with depth 10.
+2025-01-01 18:57:35,847 [INFO] Crawl complete. Graph now has 61261 nodes and 96085 edges.
+2025-01-01 18:57:45,869 [INFO] Starting crawl from 'Youth_Defence' with depth 10.
+2025-01-01 18:57:46,367 [INFO] Crawl complete. Graph now has 61305 nodes and 96212 edges.
+2025-01-01 18:57:56,388 [INFO] Starting crawl from 'Symptom_of_the_Universe' with depth 10.
+2025-01-01 18:57:56,903 [INFO] Crawl complete. Graph now has 61315 nodes and 96371 edges.
+2025-01-01 18:58:06,924 [INFO] Starting crawl from 'El_Bienamado' with depth 10.
+2025-01-01 18:58:08,281 [INFO] Crawl complete. Graph now has 61344 nodes and 96537 edges.
+2025-01-01 18:58:18,304 [INFO] Starting crawl from 'Fajitagate' with depth 10.
+2025-01-01 18:58:19,980 [INFO] Crawl complete. Graph now has 61350 nodes and 96567 edges.
+2025-01-01 18:58:30,003 [INFO] Starting crawl from 'Tariff' with depth 10.
+2025-01-01 18:58:31,307 [INFO] Crawl complete. Graph now has 61770 nodes and 97090 edges.
+2025-01-01 18:58:41,327 [INFO] Starting crawl from 'South_Asian_Association_for_Regional_Cooperation' with depth 10.
+2025-01-01 18:58:41,811 [INFO] Crawl complete. Graph now has 62692 nodes and 98389 edges.
+2025-01-01 18:58:51,829 [INFO] Starting crawl from 'Dzongkha' with depth 10.
+2025-01-01 18:58:52,375 [INFO] Crawl complete. Graph now has 63002 nodes and 98727 edges.
+2025-01-01 18:59:02,386 [INFO] Starting crawl from 'NDF_Rebellion' with depth 10.
+2025-01-01 18:59:02,644 [INFO] Crawl complete. Graph now has 63113 nodes and 99352 edges.
+2025-01-01 18:59:12,669 [INFO] Starting crawl from 'Southern_Levant' with depth 10.
+2025-01-01 18:59:12,959 [INFO] Crawl complete. Graph now has 63180 nodes and 99462 edges.
+2025-01-01 18:59:22,965 [INFO] Starting crawl from 'Islamic_ethics' with depth 10.
+2025-01-01 18:59:23,519 [INFO] Crawl complete. Graph now has 63638 nodes and 100069 edges.
+2025-01-01 18:59:33,539 [INFO] Starting crawl from '1980_Turkish_coup_d%27%C3%A9tat' with depth 10.
+2025-01-01 18:59:34,080 [INFO] Crawl complete. Graph now has 63788 nodes and 100845 edges.
+2025-01-01 18:59:44,105 [INFO] Starting crawl from 'OPEC_Fund_for_International_Development' with depth 10.
+2025-01-01 18:59:44,598 [INFO] Crawl complete. Graph now has 63817 nodes and 100993 edges.
+2025-01-01 18:59:54,620 [INFO] Starting crawl from 'Babam_ve_O%C4%9Flum' with depth 10.
+2025-01-01 18:59:56,360 [INFO] Crawl complete. Graph now has 63892 nodes and 101076 edges.
+2025-01-01 19:00:06,383 [INFO] Starting crawl from 'Silver_fern' with depth 10.
+2025-01-01 19:00:06,611 [INFO] Crawl complete. Graph now has 63961 nodes and 101168 edges.
+2025-01-01 19:00:16,634 [INFO] Starting crawl from 'Career_break' with depth 10.
+2025-01-01 19:00:16,863 [INFO] Crawl complete. Graph now has 63968 nodes and 101491 edges.
+2025-01-01 19:00:26,888 [INFO] Starting crawl from 'Blunder_(chess)' with depth 10.
+2025-01-01 19:00:27,426 [INFO] Crawl complete. Graph now has 64020 nodes and 101869 edges.
+2025-01-01 19:00:37,448 [INFO] Starting crawl from 'Walter_Langton' with depth 10.
+2025-01-01 19:00:38,594 [INFO] Crawl complete. Graph now has 64180 nodes and 102103 edges.
+2025-01-01 19:00:48,630 [INFO] Starting crawl from 'Jyoti_Basu' with depth 10.
+2025-01-01 19:00:49,173 [INFO] Crawl complete. Graph now has 65005 nodes and 103164 edges.
+2025-01-01 19:00:59,195 [INFO] Starting crawl from 'West_Bengal_Socialist_Party' with depth 10.
+2025-01-01 19:00:59,871 [INFO] Crawl complete. Graph now has 65011 nodes and 103193 edges.
+2025-01-01 19:01:09,072 [INFO] Updating graph elements for visualization.
+2025-01-01 19:01:09,279 [INFO] Graph currently has 65011 nodes and 103193 edges.
+2025-01-01 19:01:09,288 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 19:01:09,898 [INFO] Starting crawl from 'Blue_Angel_(Strawbs_album)' with depth 10.
+2025-01-01 19:01:10,413 [INFO] Crawl complete. Graph now has 65024 nodes and 103299 edges.
+2025-01-01 19:01:20,441 [INFO] Starting crawl from 'Cartoon_Network_(Central_and_Eastern_European_TV_channel)' with depth 10.
+2025-01-01 19:01:20,820 [INFO] Crawl complete. Graph now has 65538 nodes and 104164 edges.
+2025-01-01 19:01:30,842 [INFO] Starting crawl from 'UTV_Romania' with depth 10.
+2025-01-01 19:01:31,758 [INFO] Crawl complete. Graph now has 65540 nodes and 104312 edges.
+2025-01-01 19:01:41,792 [INFO] Starting crawl from 'Air_India_Flight_182' with depth 10.
+2025-01-01 19:01:42,183 [INFO] Crawl complete. Graph now has 65841 nodes and 104698 edges.
+2025-01-01 19:01:52,211 [INFO] Starting crawl from 'Tshangla_language' with depth 10.
+2025-01-01 19:01:52,685 [INFO] Crawl complete. Graph now has 65919 nodes and 105043 edges.
+2025-01-01 19:02:02,709 [INFO] Starting crawl from 'Anarchism_in_Bosnia_and_Herzegovina' with depth 10.
+2025-01-01 19:02:03,561 [INFO] Crawl complete. Graph now has 65985 nodes and 105445 edges.
+2025-01-01 19:02:13,582 [INFO] Starting crawl from 'Maccu' with depth 10.
+2025-01-01 19:02:14,086 [INFO] Crawl complete. Graph now has 65993 nodes and 105466 edges.
+2025-01-01 19:02:24,111 [INFO] Starting crawl from 'Broadcasting_and_Cable' with depth 10.
+2025-01-01 19:02:25,241 [INFO] Crawl complete. Graph now has 66144 nodes and 105649 edges.
+2025-01-01 19:02:35,252 [INFO] Starting crawl from 'Blu-ray_Disc' with depth 10.
+2025-01-01 19:02:36,425 [INFO] Crawl complete. Graph now has 66736 nodes and 106423 edges.
+2025-01-01 19:02:46,446 [INFO] Starting crawl from 'Magnus_Manske' with depth 10.
+2025-01-01 19:02:47,430 [INFO] Crawl complete. Graph now has 66757 nodes and 106607 edges.
+2025-01-01 19:02:57,452 [INFO] Starting crawl from 'Microsoft_Paint' with depth 10.
+2025-01-01 19:02:57,730 [INFO] Crawl complete. Graph now has 66899 nodes and 107110 edges.
+2025-01-01 19:03:07,752 [INFO] Starting crawl from 'Andr%C3%A9s_Martinez_(editor)#.22Grazergate.22_Controversy' with depth 10.
+2025-01-01 19:03:08,637 [INFO] Crawl complete. Graph now has 66905 nodes and 107133 edges.
+2025-01-01 19:03:18,648 [INFO] Starting crawl from 'Opeth' with depth 10.
+2025-01-01 19:03:18,960 [INFO] Crawl complete. Graph now has 67053 nodes and 107330 edges.
+2025-01-01 19:03:28,970 [INFO] Starting crawl from 'Languages_of_South_Sudan' with depth 10.
+2025-01-01 19:03:29,785 [INFO] Crawl complete. Graph now has 67198 nodes and 107565 edges.
+2025-01-01 19:03:31,213 [INFO] Updating graph elements for visualization.
+2025-01-01 19:03:31,465 [INFO] Graph currently has 67198 nodes and 107565 edges.
+2025-01-01 19:03:31,474 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 19:03:39,800 [INFO] Starting crawl from 'Languages_of_Sudan' with depth 10.
+2025-01-01 19:03:40,260 [INFO] Crawl complete. Graph now has 67333 nodes and 107803 edges.
+2025-01-01 19:03:50,270 [INFO] Starting crawl from 'Mangaya_language' with depth 10.
+2025-01-01 19:03:51,262 [INFO] Crawl complete. Graph now has 67391 nodes and 107913 edges.
+2025-01-01 19:04:01,280 [INFO] Starting crawl from 'George_Bass_(archaeologist)' with depth 10.
+2025-01-01 19:04:01,639 [INFO] Crawl complete. Graph now has 68766 nodes and 109835 edges.
+2025-01-01 19:04:11,647 [INFO] Starting crawl from 'Cotton_Coulson' with depth 10.
+2025-01-01 19:04:11,948 [INFO] Crawl complete. Graph now has 68777 nodes and 111212 edges.
+2025-01-01 19:04:21,972 [INFO] Starting crawl from 'Bunbury_Cup' with depth 10.
+2025-01-01 19:04:22,439 [INFO] Crawl complete. Graph now has 68822 nodes and 111298 edges.
+2025-01-01 19:04:32,462 [INFO] Starting crawl from 'Poul-Henning_Kamp' with depth 10.
+2025-01-01 19:04:32,747 [INFO] Crawl complete. Graph now has 68898 nodes and 111442 edges.
+2025-01-01 19:04:42,758 [INFO] Starting crawl from 'Brian_Fargo' with depth 10.
+2025-01-01 19:04:43,194 [INFO] Crawl complete. Graph now has 68989 nodes and 111569 edges.
+2025-01-01 19:04:53,225 [INFO] Starting crawl from 'Human_rights_abuses_in_Jammu_and_Kashmir' with depth 10.
+2025-01-01 19:04:54,339 [INFO] Crawl complete. Graph now has 69417 nodes and 112075 edges.
+2025-01-01 19:05:04,366 [INFO] Starting crawl from 'Multi-touch' with depth 10.
+2025-01-01 19:05:04,620 [INFO] Crawl complete. Graph now has 69487 nodes and 112191 edges.
+2025-01-01 19:05:14,627 [INFO] Starting crawl from 'Dexter_Filkins' with depth 10.
+2025-01-01 19:05:15,068 [INFO] Crawl complete. Graph now has 69514 nodes and 112240 edges.
+2025-01-01 19:05:25,075 [INFO] Starting crawl from 'Shading' with depth 10.
+2025-01-01 19:05:25,578 [INFO] Crawl complete. Graph now has 69680 nodes and 112516 edges.
+2025-01-01 19:05:35,586 [INFO] Starting crawl from 'Brixham_trawler' with depth 10.
+2025-01-01 19:05:35,774 [INFO] Crawl complete. Graph now has 69695 nodes and 112661 edges.
+2025-01-01 19:05:45,785 [INFO] Starting crawl from 'Edward_Walter_Maunder' with depth 10.
+2025-01-01 19:05:46,260 [INFO] Crawl complete. Graph now has 69724 nodes and 112706 edges.
+2025-01-01 19:05:56,271 [INFO] Starting crawl from 'Public_Trustee_(New_Zealand)' with depth 10.
+2025-01-01 19:05:56,953 [INFO] Crawl complete. Graph now has 69741 nodes and 112746 edges.
+2025-01-01 19:06:06,963 [INFO] Starting crawl from 'WHCR-FM' with depth 10.
+2025-01-01 19:06:08,981 [INFO] Crawl complete. Graph now has 69934 nodes and 112956 edges.
+2025-01-01 19:06:19,011 [INFO] Starting crawl from 'ASP.NET_MVC' with depth 10.
+2025-01-01 19:06:19,504 [INFO] Crawl complete. Graph now has 70095 nodes and 113333 edges.
+2025-01-01 19:06:29,528 [INFO] Starting crawl from 'Shipping_line' with depth 10.
+2025-01-01 19:06:29,974 [INFO] Crawl complete. Graph now has 70112 nodes and 113384 edges.
+2025-01-01 19:06:39,996 [INFO] Starting crawl from 'Triangle_mesh' with depth 10.
+2025-01-01 19:06:40,391 [INFO] Crawl complete. Graph now has 70142 nodes and 113426 edges.
+2025-01-01 19:06:50,410 [INFO] Starting crawl from 'Alexander_I_of_Georgia' with depth 10.
+2025-01-01 19:06:50,643 [INFO] Crawl complete. Graph now has 70185 nodes and 113518 edges.
+2025-01-01 19:07:00,665 [INFO] Starting crawl from 'Prison_strike' with depth 10.
+2025-01-01 19:07:00,891 [INFO] Crawl complete. Graph now has 70319 nodes and 113678 edges.
+2025-01-01 19:07:10,900 [INFO] Starting crawl from 'Diving_hazards' with depth 10.
+2025-01-01 19:07:11,572 [INFO] Crawl complete. Graph now has 70411 nodes and 115146 edges.
+2025-01-01 19:07:21,598 [INFO] Starting crawl from 'Quechan' with depth 10.
+2025-01-01 19:07:21,834 [INFO] Crawl complete. Graph now has 70571 nodes and 115347 edges.
+2025-01-01 19:07:31,842 [INFO] Starting crawl from 'Fort_Yuma' with depth 10.
+2025-01-01 19:07:32,359 [INFO] Crawl complete. Graph now has 70829 nodes and 115637 edges.
+2025-01-01 19:07:42,369 [INFO] Starting crawl from 'California_Column' with depth 10.
+2025-01-01 19:07:43,194 [INFO] Crawl complete. Graph now has 70861 nodes and 115878 edges.
+2025-01-01 19:07:53,220 [INFO] Starting crawl from 'History_of_California_before_1900#European_exploration_(1530–1765)' with depth 10.
+2025-01-01 19:07:53,919 [INFO] Crawl complete. Graph now has 71724 nodes and 117093 edges.
+2025-01-01 19:08:03,942 [INFO] Starting crawl from 'Crime_in_California' with depth 10.
+2025-01-01 19:08:04,217 [INFO] Crawl complete. Graph now has 71915 nodes and 117515 edges.
+2025-01-01 19:08:14,243 [INFO] Starting crawl from 'Real_Audiencia_of_Panama' with depth 10.
+2025-01-01 19:08:14,997 [INFO] Crawl complete. Graph now has 71941 nodes and 117901 edges.
+2025-01-01 19:08:25,026 [INFO] Starting crawl from 'History_of_Panama' with depth 10.
+2025-01-01 19:08:25,854 [INFO] Crawl complete. Graph now has 72163 nodes and 118189 edges.
+2025-01-01 19:08:35,864 [INFO] Starting crawl from 'Indian_auxiliaries' with depth 10.
+2025-01-01 19:08:36,152 [INFO] Crawl complete. Graph now has 72209 nodes and 118595 edges.
+2025-01-01 19:08:46,162 [INFO] Starting crawl from 'VaMP' with depth 10.
+2025-01-01 19:08:47,070 [INFO] Crawl complete. Graph now has 72228 nodes and 118699 edges.
+2025-01-01 19:08:57,105 [INFO] Starting crawl from 'Yangjiang' with depth 10.
+2025-01-01 19:08:58,109 [INFO] Crawl complete. Graph now has 72473 nodes and 119436 edges.
+2025-01-01 19:09:08,131 [INFO] Starting crawl from 'Neuroscience_and_intelligence' with depth 10.
+2025-01-01 19:09:08,398 [INFO] Crawl complete. Graph now has 72546 nodes and 119572 edges.
+2025-01-01 19:09:18,430 [INFO] Starting crawl from 'Bank_Australia' with depth 10.
+2025-01-01 19:09:18,670 [INFO] Crawl complete. Graph now has 72658 nodes and 119700 edges.
+2025-01-01 19:09:28,692 [INFO] Starting crawl from '2019_Guatemalan_general_election' with depth 10.
+2025-01-01 19:09:29,544 [INFO] Crawl complete. Graph now has 72765 nodes and 119889 edges.
+2025-01-01 19:09:39,571 [INFO] Starting crawl from 'Pocket_mutation_chess' with depth 10.
+2025-01-01 19:09:40,493 [INFO] Crawl complete. Graph now has 72767 nodes and 120051 edges.
+2025-01-01 19:09:50,500 [INFO] Starting crawl from 'Arguido' with depth 10.
+2025-01-01 19:09:50,906 [INFO] Crawl complete. Graph now has 72774 nodes and 120111 edges.
+2025-01-01 19:10:00,917 [INFO] Starting crawl from 'Pulse_87' with depth 10.
+2025-01-01 19:10:01,348 [INFO] Crawl complete. Graph now has 72782 nodes and 120274 edges.
+2025-01-01 19:10:11,358 [INFO] Starting crawl from 'Mirror_to_the_Sky_(song)' with depth 10.
+2025-01-01 19:10:12,260 [INFO] Crawl complete. Graph now has 72785 nodes and 120436 edges.
+2025-01-01 19:10:22,277 [INFO] Starting crawl from 'Consumer_electronics' with depth 10.
+2025-01-01 19:10:22,802 [INFO] Crawl complete. Graph now has 72953 nodes and 120817 edges.
+2025-01-01 19:10:32,822 [INFO] Starting crawl from 'Book' with depth 10.
+2025-01-01 19:10:33,260 [INFO] Crawl complete. Graph now has 73816 nodes and 121856 edges.
+2025-01-01 19:10:35,392 [INFO] Updating graph elements for visualization.
+2025-01-01 19:10:35,653 [INFO] Graph currently has 73816 nodes and 121856 edges.
+2025-01-01 19:10:35,664 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 19:10:43,283 [INFO] Starting crawl from 'Logbook' with depth 10.
+2025-01-01 19:10:43,870 [INFO] Crawl complete. Graph now has 74300 nodes and 122424 edges.
+2025-01-01 19:10:53,894 [INFO] Starting crawl from 'Conservation_technician' with depth 10.
+2025-01-01 19:10:55,070 [INFO] Crawl complete. Graph now has 74305 nodes and 122635 edges.
+2025-01-01 19:11:05,080 [INFO] Starting crawl from 'Protestant_work_ethic' with depth 10.
+2025-01-01 19:11:05,315 [INFO] Crawl complete. Graph now has 74350 nodes and 122729 edges.
+2025-01-01 19:11:15,348 [INFO] Starting crawl from 'Modern_and_Contemporary_Art_Research_Initiative' with depth 10.
+2025-01-01 19:11:16,119 [INFO] Crawl complete. Graph now has 74351 nodes and 122934 edges.
+2025-01-01 19:11:26,130 [INFO] Starting crawl from 'Padania' with depth 10.
+2025-01-01 19:11:26,611 [INFO] Crawl complete. Graph now has 74425 nodes and 123062 edges.
+2025-01-01 19:11:36,621 [INFO] Starting crawl from 'Conservation_and_restoration_of_musical_instruments' with depth 10.
+2025-01-01 19:11:37,470 [INFO] Crawl complete. Graph now has 74448 nodes and 123298 edges.
+2025-01-01 19:11:47,505 [INFO] Starting crawl from 'Bioelectronics' with depth 10.
+2025-01-01 19:11:47,972 [INFO] Crawl complete. Graph now has 74552 nodes and 123510 edges.
+2025-01-01 19:11:57,999 [INFO] Starting crawl from 'Timothy_Kopra' with depth 10.
+2025-01-01 19:11:58,326 [INFO] Crawl complete. Graph now has 74650 nodes and 124985 edges.
+2025-01-01 19:12:08,356 [INFO] Starting crawl from 'CZW_Studios' with depth 10.
+2025-01-01 19:12:09,568 [INFO] Crawl complete. Graph now has 74734 nodes and 125321 edges.
+2025-01-01 19:12:19,578 [INFO] Starting crawl from 'Tables_Match' with depth 10.
+2025-01-01 19:12:21,397 [INFO] Crawl complete. Graph now has 75508 nodes and 126308 edges.
+2025-01-01 19:12:31,403 [INFO] Starting crawl from 'Lee_Shulman' with depth 10.
+2025-01-01 19:12:31,608 [INFO] Crawl complete. Graph now has 75527 nodes and 126398 edges.
+2025-01-01 19:12:41,631 [INFO] Starting crawl from 'International_Braille_Chess_Association' with depth 10.
+2025-01-01 19:12:42,028 [INFO] Crawl complete. Graph now has 75536 nodes and 126417 edges.
+2025-01-01 19:12:52,052 [INFO] Starting crawl from 'Corruption_in_South_Sudan' with depth 10.
+2025-01-01 19:12:53,093 [INFO] Crawl complete. Graph now has 75694 nodes and 126676 edges.
+2025-01-01 19:13:03,110 [INFO] Starting crawl from 'Greek_Americans' with depth 10.
+2025-01-01 19:13:03,443 [INFO] Crawl complete. Graph now has 76188 nodes and 127363 edges.
+2025-01-01 19:13:13,453 [INFO] Starting crawl from 'Music_of_Uganda' with depth 10.
+2025-01-01 19:13:13,930 [INFO] Crawl complete. Graph now has 76327 nodes and 127588 edges.
+2025-01-01 19:13:23,938 [INFO] Starting crawl from 'Educational_technology' with depth 10.
+2025-01-01 19:13:24,436 [INFO] Crawl complete. Graph now has 76880 nodes and 128322 edges.
+2025-01-01 19:13:34,446 [INFO] Starting crawl from 'Education_in_Zambia' with depth 10.
+2025-01-01 19:13:35,372 [INFO] Crawl complete. Graph now has 76906 nodes and 128413 edges.
+2025-01-01 19:13:45,401 [INFO] Starting crawl from 'Undercover_(Rolling_Stones_album)' with depth 10.
+2025-01-01 19:13:45,903 [INFO] Crawl complete. Graph now has 76943 nodes and 128673 edges.
+2025-01-01 19:13:55,934 [INFO] Starting crawl from 'Cognitivism_(psychology)' with depth 10.
+2025-01-01 19:13:57,192 [INFO] Crawl complete. Graph now has 77160 nodes and 129098 edges.
+2025-01-01 19:14:07,200 [INFO] Starting crawl from 'Syntax' with depth 10.
+2025-01-01 19:14:07,500 [INFO] Crawl complete. Graph now has 77365 nodes and 129372 edges.
+2025-01-01 19:14:17,523 [INFO] Starting crawl from 'Editorial_cartoons' with depth 10.
+2025-01-01 19:14:18,597 [INFO] Crawl complete. Graph now has 77557 nodes and 129684 edges.
+2025-01-01 19:14:28,623 [INFO] Starting crawl from 'Global_energy_crisis_(2021%E2%80%93present)' with depth 10.
+2025-01-01 19:14:30,109 [INFO] Crawl complete. Graph now has 77901 nodes and 130203 edges.
+2025-01-01 19:14:40,118 [INFO] Starting crawl from 'Seismic_source' with depth 10.
+2025-01-01 19:14:40,331 [INFO] Crawl complete. Graph now has 77926 nodes and 130497 edges.
+2025-01-01 19:14:50,365 [INFO] Starting crawl from 'Fauna_of_Ireland' with depth 10.
+2025-01-01 19:14:50,794 [INFO] Crawl complete. Graph now has 78238 nodes and 131082 edges.
+2025-01-01 19:15:00,822 [INFO] Starting crawl from 'Clare_Island_Survey' with depth 10.
+2025-01-01 19:15:01,244 [INFO] Crawl complete. Graph now has 78340 nodes and 131203 edges.
+2025-01-01 19:15:11,266 [INFO] Starting crawl from 'Greater_white-fronted_goose' with depth 10.
+2025-01-01 19:15:12,346 [INFO] Crawl complete. Graph now has 78444 nodes and 131352 edges.
+2025-01-01 19:15:17,252 [INFO] Updating graph elements for visualization.
+2025-01-01 19:15:17,536 [INFO] Graph currently has 78444 nodes and 131352 edges.
+2025-01-01 19:15:17,550 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 19:15:22,355 [INFO] Starting crawl from 'Fine_Gael' with depth 10.
+2025-01-01 19:15:22,757 [INFO] Crawl complete. Graph now has 78911 nodes and 132085 edges.
+2025-01-01 19:15:32,766 [INFO] Starting crawl from 'Dan_Neville' with depth 10.
+2025-01-01 19:15:33,031 [INFO] Crawl complete. Graph now has 79053 nodes and 132270 edges.
+2025-01-01 19:15:43,056 [INFO] Starting crawl from 'Myles_Staunton' with depth 10.
+2025-01-01 19:15:44,236 [INFO] Crawl complete. Graph now has 79138 nodes and 132456 edges.
+2025-01-01 19:15:54,265 [INFO] Starting crawl from 'Patrick_J._Reynolds_(politician)' with depth 10.
+2025-01-01 19:15:55,044 [INFO] Crawl complete. Graph now has 79261 nodes and 132737 edges.
+2025-01-01 19:16:05,074 [INFO] Starting crawl from 'Neville_Keery' with depth 10.
+2025-01-01 19:16:05,303 [INFO] Crawl complete. Graph now has 79267 nodes and 132836 edges.
+2025-01-01 19:16:15,335 [INFO] Starting crawl from 'G._V._Wright' with depth 10.
+2025-01-01 19:16:16,066 [INFO] Crawl complete. Graph now has 79301 nodes and 133065 edges.
+2025-01-01 19:16:26,098 [INFO] Starting crawl from 'Creative_destruction' with depth 10.
+2025-01-01 19:16:26,415 [INFO] Crawl complete. Graph now has 79426 nodes and 133788 edges.
+2025-01-01 19:16:36,427 [INFO] Starting crawl from 'Economic_liberalization_in_India' with depth 10.
+2025-01-01 19:16:39,035 [INFO] Crawl complete. Graph now has 79672 nodes and 134598 edges.
+2025-01-01 19:16:49,063 [INFO] Starting crawl from 'Anton_Shekhovtsov' with depth 10.
+2025-01-01 19:16:49,946 [INFO] Crawl complete. Graph now has 79685 nodes and 134627 edges.
+2025-01-01 19:16:59,978 [INFO] Starting crawl from 'LaGuardia_Airport' with depth 10.
+2025-01-01 19:17:00,620 [INFO] Crawl complete. Graph now has 80069 nodes and 135098 edges.
+2025-01-01 19:17:10,646 [INFO] Starting crawl from 'Jackson_Heights,_Queens' with depth 10.
+2025-01-01 19:17:11,046 [INFO] Crawl complete. Graph now has 80544 nodes and 135663 edges.
+2025-01-01 19:17:21,071 [INFO] Starting crawl from 'Engineers_of_the_human_soul' with depth 10.
+2025-01-01 19:17:21,921 [INFO] Crawl complete. Graph now has 80556 nodes and 135695 edges.
+2025-01-01 19:17:31,951 [INFO] Starting crawl from 'WFMT' with depth 10.
+2025-01-01 19:17:32,205 [INFO] Crawl complete. Graph now has 80707 nodes and 136171 edges.
+2025-01-01 19:17:42,235 [INFO] Starting crawl from 'WXES' with depth 10.
+2025-01-01 19:17:42,778 [INFO] Crawl complete. Graph now has 80811 nodes and 136412 edges.
+2025-01-01 19:17:52,805 [INFO] Starting crawl from 'Internet_refrigerator' with depth 10.
+2025-01-01 19:17:53,752 [INFO] Crawl complete. Graph now has 80891 nodes and 136573 edges.
+2025-01-01 19:18:03,766 [INFO] Starting crawl from 'Prince_Khalid_bin_Abdullah' with depth 10.
+2025-01-01 19:18:04,958 [INFO] Crawl complete. Graph now has 80979 nodes and 136716 edges.
+2025-01-01 19:18:14,982 [INFO] Starting crawl from 'Armored_cruiser' with depth 10.
+2025-01-01 19:18:15,274 [INFO] Crawl complete. Graph now has 81144 nodes and 137056 edges.
+2025-01-01 19:18:25,313 [INFO] Starting crawl from 'New_Zealand_nationality_law' with depth 10.
+2025-01-01 19:18:25,636 [INFO] Crawl complete. Graph now has 81443 nodes and 137598 edges.
+2025-01-01 19:18:35,648 [INFO] Starting crawl from 'Inheritance_(object-oriented_programming)' with depth 10.
+2025-01-01 19:18:36,165 [INFO] Crawl complete. Graph now has 81514 nodes and 137704 edges.
+2025-01-01 19:18:46,175 [INFO] Starting crawl from 'Steven_Pinker' with depth 10.
+2025-01-01 19:18:46,512 [INFO] Crawl complete. Graph now has 81911 nodes and 138307 edges.
+2025-01-01 19:18:56,525 [INFO] Starting crawl from 'Genocide_recognition_politics' with depth 10.
+2025-01-01 19:19:03,802 [INFO] Crawl complete. Graph now has 82196 nodes and 139134 edges.
+2025-01-01 19:19:13,832 [INFO] Starting crawl from 'OHCHR' with depth 10.
+2025-01-01 19:19:14,323 [INFO] Crawl complete. Graph now has 82576 nodes and 139599 edges.
+2025-01-01 19:19:24,341 [INFO] Starting crawl from 'United_Nations_Development_Group' with depth 10.
+2025-01-01 19:19:24,792 [INFO] Crawl complete. Graph now has 82619 nodes and 139908 edges.
+2025-01-01 19:19:34,818 [INFO] Starting crawl from 'Ely_Racecourse' with depth 10.
+2025-01-01 19:19:35,730 [INFO] Crawl complete. Graph now has 82693 nodes and 139990 edges.
+2025-01-01 19:19:45,744 [INFO] Starting crawl from 'Twenty-seventh_Amendment_of_the_Constitution_of_Ireland' with depth 10.
+2025-01-01 19:19:46,604 [INFO] Crawl complete. Graph now has 82726 nodes and 140114 edges.
+2025-01-01 19:19:55,323 [INFO] Updating graph elements for visualization.
+2025-01-01 19:19:55,574 [INFO] Graph currently has 82726 nodes and 140114 edges.
+2025-01-01 19:19:55,587 [INFO] Article names saved to wikipedia_articles_20250101_181219.txt
+2025-01-01 19:19:56,613 [INFO] Starting crawl from 'Infrared_excess' with depth 10.
+2025-01-01 19:19:56,810 [INFO] Crawl complete. Graph now has 82735 nodes and 140135 edges.
+2025-01-01 19:20:06,842 [INFO] Starting crawl from 'Independent_component_analysis' with depth 10.
+2025-01-01 19:20:07,395 [INFO] Crawl complete. Graph now has 82789 nodes and 140339 edges.
+2025-01-01 19:20:17,429 [INFO] Starting crawl from 'Mlpack' with depth 10.
+2025-01-01 19:20:17,884 [INFO] Crawl complete. Graph now has 82820 nodes and 140531 edges.
+2025-01-01 19:20:27,911 [INFO] Starting crawl from 'Adventure_racing' with depth 10.
+2025-01-01 19:20:28,401 [INFO] Crawl complete. Graph now has 82977 nodes and 140823 edges.
+2025-01-01 19:20:38,431 [INFO] Starting crawl from 'TAKM' with depth 10.
+2025-01-01 19:20:39,566 [INFO] Crawl complete. Graph now has 83175 nodes and 141138 edges.
+2025-01-01 19:20:49,590 [INFO] Starting crawl from 'August_Wilson' with depth 10.
+2025-01-01 19:20:49,972 [INFO] Crawl complete. Graph now has 83542 nodes and 141653 edges.
+2025-01-01 19:20:59,983 [INFO] Starting crawl from 'E._L._Mayo' with depth 10.
+2025-01-01 19:21:01,509 [INFO] Crawl complete. Graph now has 83559 nodes and 141935 edges.
+2025-01-01 19:21:11,523 [INFO] Starting crawl from 'Angelitos_negros_(TV_series)' with depth 10.
+2025-01-01 19:21:12,415 [INFO] Crawl complete. Graph now has 83566 nodes and 142081 edges.
+2025-01-01 19:21:22,442 [INFO] Starting crawl from 'Rancho_Valle_de_San_Felipe#San_Felipe_Station' with depth 10.
+2025-01-01 19:21:23,526 [INFO] Crawl complete. Graph now has 83582 nodes and 142333 edges.
+2025-01-01 19:21:33,552 [INFO] Starting crawl from 'Transistor' with depth 10.
+2025-01-01 19:21:33,914 [INFO] Crawl complete. Graph now has 83837 nodes and 142852 edges.
+2025-01-01 19:21:43,942 [INFO] Starting crawl from 'Avalanche_transistor' with depth 10.
+2025-01-01 19:21:44,514 [INFO] Crawl complete. Graph now has 83922 nodes and 142988 edges.

@@ -1,6 +1,6 @@
 # wikipedia-universe
 
-**Visualize Wikipedia Relationships**:
+**Visualize Wikipedia Relationships**
    Explore the tree-like structure representing the relationships between Wikipedia articles. The application updates in real time as it crawls through new links. It also stores the article titles in a text file for later reference.
 
 # Demo
